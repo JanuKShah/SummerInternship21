@@ -1,7 +1,0 @@
-C:\DA\C#HandsOn\Task2\Insem1\Question4\bin\Debug\Question4.exe.config
-C:\DA\C#HandsOn\Task2\Insem1\Question4\bin\Debug\Question4.exe
-C:\DA\C#HandsOn\Task2\Insem1\Question4\bin\Debug\Question4.pdb
-C:\DA\C#HandsOn\Task2\Insem1\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
-C:\DA\C#HandsOn\Task2\Insem1\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
-C:\DA\C#HandsOn\Task2\Insem1\Question4\obj\Debug\Question4.exe
-C:\DA\C#HandsOn\Task2\Insem1\Question4\obj\Debug\Question4.pdb
