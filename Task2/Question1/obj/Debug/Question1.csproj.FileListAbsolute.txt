@@ -1,0 +1,7 @@
+C:\DA\C#HandsOn\Task2\Insem1\Question1\bin\Debug\Question1.exe.config
+C:\DA\C#HandsOn\Task2\Insem1\Question1\bin\Debug\Question1.exe
+C:\DA\C#HandsOn\Task2\Insem1\Question1\bin\Debug\Question1.pdb
+C:\DA\C#HandsOn\Task2\Insem1\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\DA\C#HandsOn\Task2\Insem1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task2\Insem1\Question1\obj\Debug\Question1.exe
+C:\DA\C#HandsOn\Task2\Insem1\Question1\obj\Debug\Question1.pdb
